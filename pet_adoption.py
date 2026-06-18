@@ -1,3 +1,5 @@
+"""a Python program that manages pets available for adoption"""
+
 class Pet:
     def __init__(self, name, age, breed, adoption_status="Available"):
         self.name = name

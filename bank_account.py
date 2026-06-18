@@ -1,3 +1,5 @@
+'''a bank account system where the account balance cannot be accessed directly'''
+
 class BankAccount:
     def __init__(self, account_holder, initial_balance=0):
         self.__account_holder = account_holder
