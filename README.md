@@ -7,8 +7,6 @@ A collection of small, self-contained Python scripts demonstrating common progra
 - **Overview:** Quick summary of this repository.
 - **Projects:** Short descriptions and how to run each script.
 - **Usage:** Requirements and run examples.
-- **Contributing:** How to contribute.
-- **License:** Repository license.
 
 ## Overview
 
